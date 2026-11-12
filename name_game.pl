@@ -1,4 +1,4 @@
-% Lab 9 - Name Game.
+% Lab 11 - Name Game.
 
 name_game :-
     writeln('Hi. This is the Name Game.'),
